@@ -1,2 +1,17 @@
+.container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1rem;
+}
+
 .button {
+  margin: auto;
+  height: 5rem;
+  width: 55%;
+  background-image: url("https://apod.nasa.gov/apod/image/1909/LastRingPortrait_Cassini_4472.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  border-radius: 20px;
+  border: none;
 }
