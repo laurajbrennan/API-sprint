@@ -1,0 +1,18 @@
+.result {
+  height: 75%;
+}
+
+.unhide {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url("https://apod.nasa.gov/apod/image/1201/gcwide_eder_2000.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 70vh;
+}
+
+@import "./partials/fonts";
